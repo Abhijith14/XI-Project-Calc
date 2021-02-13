@@ -72,7 +72,9 @@
 | SL.No  | Function | Description |
 | ------------- | ------------- | ----------- |
 | 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     |
-| Content Cell  | Content Cell  | Blah1       |
+| 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     |
+| 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     |
+| 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     |
 
 
 
