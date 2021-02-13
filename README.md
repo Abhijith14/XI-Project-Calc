@@ -1,41 +1,41 @@
 # Scientific Calculator
 
-1. **INTRODUCTION**
+**1. INTRODUCTION**
 
-**1.1 About the Project**
+	**1.1 About the Project**
 
-**1.1.1**  **Scientific Calculator-An Overview**
+		**1.1.1**  **Scientific Calculator-An Overview**
 
-Scientific calculator is a type of electronic calculator, usually but not always handheld, designed to calculate problems in science, engineering, and mathematics. They have almost completely replaced slide rules in traditional applications, and are widely used in both education and professional settings.
+		Scientific calculator is a type of electronic calculator, usually but not always handheld, designed to calculate problems in science, engineering, and mathematics. They have almost completely replaced slide rules in traditional applications, and are widely used in both education and professional settings.
 
-Modern scientific calculators generally have many more features than a standard four or five-function calculator, and the feature set differs between manufacturers and models; however, this project deals with 20 simple and basic mathematical functions including:
+		Modern scientific calculators generally have many more features than a standard four or five-function calculator, and the feature set differs between manufacturers and models; however, this project deals with 20 simple and basic mathematical functions including:
 
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
-5. Modulus
-6. Sine function 
-7. Cosine function 
-8. Tangent function 
-9. xy 
-10. Root
-11. Cosec function
-12. Sec function
-13. Cot function
-14. X2
-15. root
-16. X!
-17. 1/x
-18. log
-19. ln
-20. E
+		1. Addition
+		2. Subtraction
+		3. Multiplication
+		4. Division
+		5. Modulus
+		6. Sine function 
+		7. Cosine function 
+		8. Tangent function 
+		9. xy 
+		10. Root
+		11. Cosec function
+		12. Sec function
+		13. Cot function
+		14. X2
+		15. root
+		16. X!
+		17. 1/x
+		18. log
+		19. ln
+		20. E
 
-**1.1.2**** Objective of the PROJECT**
+		**1.1.2**** Objective of the PROJECT**
 
-The main objective of the project &quot; **SCIENTIFIC CALCULATOR**&quot; is to help the user to do calculations with some of the main important and useful functions in MATHEMATICS. This program targets at the comfortance of the user along with proper and accurate result of the entered questions.
+		The main objective of the project &quot; **SCIENTIFIC CALCULATOR**&quot; is to help the user to do calculations with some of the main important and useful functions in MATHEMATICS. This program targets at the comfortance of the user along with proper and accurate result of the entered questions.
 
-It helps the user to also do complex operations like Natural Logarithm, Trigonometry, Logarithm, and even the e function. Has the feature like CLEARING, EXIT and also the mathematical number PI.
+		It helps the user to also do complex operations like Natural Logarithm, Trigonometry, Logarithm, and even the e function. Has the feature like CLEARING, EXIT and also the mathematical number PI.
 
 1. **SYSTEM SPECIFICATION**
 
