@@ -37,39 +37,39 @@
 
 		It helps the user to also do complex operations like Natural Logarithm, Trigonometry, Logarithm, and even the e function. Has the feature like CLEARING, EXIT and also the mathematical number PI.
 
-1. **SYSTEM SPECIFICATION**
+**2. SYSTEM SPECIFICATION**
 
-**2.1 Development Environment**
+	**2.1 Development Environment**
 
-**2.1.1 Hardware Configuration**
+		**2.1.1 Hardware Configuration**
 
-PROCESSOR : Intel Core i7-5960X
+		PROCESSOR : Intel Core i7-5960X
 
-RAM : HyperX Predator 3600 2X8GB
+		RAM : HyperX Predator 3600 2X8GB
 
-GRAPHICS ADAPTER : Nvidia GeForce GTX Titan Xp
+		GRAPHICS ADAPTER : Nvidia GeForce GTX Titan Xp
 
-MONITOR : AOC Agon AG352UCG
+		MONITOR : AOC Agon AG352UCG
 
-KEYBOARD : Logitech G910 Orion Spectrum
+		KEYBOARD : Logitech G910 Orion Spectrum
 
-MOUSE : Logitech G903
+		MOUSE : Logitech G903
 
-**2.1.2 Software Configuration**
+		**2.1.2 Software Configuration**
 
-OPERATING SYSTEM : Windows 10
+		OPERATING SYSTEM : Windows 10
 
-EDITOR : DOSBox
+		EDITOR : DOSBox
 
-PROGRAMMING LANGUAGE : C++
+		PROGRAMMING LANGUAGE : C++
 
-OOP CONCEPTS USED : Data Abstraction, Data Encapsulation, Modularity, Inheritance, Polymorphism, Reusability.
+		OOP CONCEPTS USED : Data Abstraction, Data Encapsulation, Modularity, Inheritance, Polymorphism, Reusability.
 
-FEATURES USED : FUNCTIONS
+		FEATURES USED : FUNCTIONS
+	
+		DATABASE : SQL
 
-DATABASE : SQL
-
-**2.**  **DATA FLOW DIGRAM**
+**3. DATA FLOW DIGRAM**
 
 
 
