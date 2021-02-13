@@ -7,7 +7,6 @@
 		1.1.1 Scientific Calculator-An Overview
 
 			Scientific calculator is a type of electronic calculator, usually but not always handheld, designed to calculate problems in science, engineering, and mathematics. They have almost completely replaced slide rules in traditional applications, and are widely used in both education and professional settings.
-
 			Modern scientific calculators generally have many more features than a standard four or five-function calculator, and the feature set differs between manufacturers and models; however, this project deals with 20 simple and basic mathematical functions including:
 
 			1. Addition
@@ -34,7 +33,6 @@
 		1.1.2 Objective of the PROJECT
 
 			The main objective of the project &quot; **SCIENTIFIC CALCULATOR**&quot; is to help the user to do calculations with some of the main important and useful functions in MATHEMATICS. This program targets at the comfortance of the user along with proper and accurate result of the entered questions.
-
 			It helps the user to also do complex operations like Natural Logarithm, Trigonometry, Logarithm, and even the e function. Has the feature like CLEARING, EXIT and also the mathematical number PI.
 
 **2. SYSTEM SPECIFICATION**
@@ -78,11 +76,8 @@
 **4. CONCLUTION**
 
 	Making programs designed for a real-life purpose is a great way to understand programming and programming concepts. This C++ project and OOP concepts used have been of greater help to me for understanding OOP concepts and for its functioning, it can be easily modified and maintained.
-
 	This calculator is designed in a user friendly manner. This software is economically feasible. As the cost of hardware and software required is low.
-
 	The main objectives that are achieved are to do complex operations and many other functions. All the calculations are done by the computer and provide greater speed and thus reduce time consumption. It provides the user a quick response with very accurate information.
-
 	The project has been developed to meet the aspirations indicated in the modern age. An attempt has been made through this project to do all work ease and fast.
 
 **5. BIBLIOGRAPHY**
