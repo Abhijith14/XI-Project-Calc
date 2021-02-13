@@ -62,7 +62,8 @@
 			OPERATING SYSTEM : Windows 10
 			EDITOR : DOSBox
 			PROGRAMMING LANGUAGE : C++
-			OOP CONCEPTS USED : Data Abstraction, Data Encapsulation, Modularity, Inheritance, Polymorphism, Reusability.
+			OOP CONCEPTS USED : Data Abstraction, Data Encapsulation, Modularity, Inheritance, 
+								Polymorphism, Reusability.
 			FEATURES USED : FUNCTIONS
 			DATABASE : SQL
 
