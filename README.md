@@ -69,10 +69,10 @@
 
 **3. DATA FLOW DIGRAM**
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header  | Second Header | Description |
+| ------------- | ------------- | ----------- |
+| Content Cell  | Content Cell  | Blah1       |
+| Content Cell  | Content Cell  | Blah1       |
 
 
 
