@@ -107,3 +107,4 @@
 
 **6. Output Screen Layouts**
 
+![alt text](https://github.com/Abhijith14/XI-Project-Calc/blob/master/images/1.png?raw=true)
