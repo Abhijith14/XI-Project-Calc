@@ -39,9 +39,9 @@
 
 **2. SYSTEM SPECIFICATION**
 
-	**2.1 Development Environment**
+	2.1 Development Environment
 
-		**2.1.1 Hardware Configuration**
+		2.1.1 Hardware Configuration
 
 			PROCESSOR : Intel Core i7-5960X
 
@@ -55,7 +55,7 @@
 
 			MOUSE : Logitech G903
 
-		**2.1.2 Software Configuration**
+		2.1.2 Software Configuration
 
 			OPERATING SYSTEM : Windows 10
 
@@ -87,12 +87,12 @@
 
 **5. BIBLIOGRAPHY**
 
-	**5.1 Textbooks:**
+	5.1 Textbooks:
 
 		1. Computer Science with C++ A textbook for class XI by Sumita Arora
 		2. Computer Science with C++ A textbook for class XII by Sumita Arora
 
-	**5.2 Websites:**
+	5.2 Websites:
 
 		1. http//en.wikipedia.org/
 		2. www.softechworld.com
