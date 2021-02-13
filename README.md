@@ -2,9 +2,9 @@
 
 **1. INTRODUCTION**
 
-	**1.1 About the Project**
+	1.1 About the Project
 
-		**1.1.1 Scientific Calculator-An Overview**
+		1.1.1 Scientific Calculator-An Overview
 
 			Scientific calculator is a type of electronic calculator, usually but not always handheld, designed to calculate problems in science, engineering, and mathematics. They have almost completely replaced slide rules in traditional applications, and are widely used in both education and professional settings.
 
@@ -31,7 +31,7 @@
 			19. ln
 			20. E
 
-		**1.1.2 Objective of the PROJECT**
+		1.1.2 Objective of the PROJECT
 
 			The main objective of the project &quot; **SCIENTIFIC CALCULATOR**&quot; is to help the user to do calculations with some of the main important and useful functions in MATHEMATICS. This program targets at the comfortance of the user along with proper and accurate result of the entered questions.
 
