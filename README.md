@@ -69,12 +69,12 @@
 
 **3. DATA FLOW DIGRAM**
 
-| SL.No  | Function | Description |
+| Sl.No  | Function | Description |
 | ------------- | ------------- | ----------- |
 | 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     |
-| 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     |
-| 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     |
-| 1.  | INTRO()  |   INTRODUCTION TO THIS PROJECT     |
+| 2.  | GRAPH()  |   GIVES GRAPHIC DESIGN TO THE PROJECT     |
+| 3.  | DIS()  |   DISPLAY THE ITEMS AND INFORMATIONS     |
+| 4.  | ENTER()  |   ACCEPTS THE ENTERED NUMBER AND PROCESS IT ACCORDING TO THE OPERATION ASKED     |
 
 
 
