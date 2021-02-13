@@ -76,7 +76,7 @@
 | 3.  | DIS()  |   DISPLAY THE ITEMS AND INFORMATIONS     |
 | 4.  | ENTER()  |   ACCEPTS THE ENTERED NUMBER AND PROCESS IT ACCORDING TO THE OPERATION ASKED     |
 
-![alt text](https://github.com/Abhijith14/Certificates/blob/master/Co-Curricular/Abhijith%20U%20-%20Trivia%20Certificate.jpg?raw=true)
+![alt text](https://github.com/Abhijith14/XI-Project-Calc/blob/master/images/flowchart.png?raw=true)
 
 
 **4. CONCLUTION**
