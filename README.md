@@ -75,8 +75,8 @@
 
 **4. CONCLUTION**
 
-	Making programs designed for a real-life purpose is a great way to understand programming and 
-	programming concepts. This C++ project and OOP concepts used have been of greater help to me 
+	Making programs designed for a real-life purpose is a great way to understand programming and programming concepts. 
+	This C++ project and OOP concepts used have been of greater help to me 
 	for understanding OOP concepts and for its functioning, it can be easily modified and 
 	maintained. This calculator is designed in a user friendly manner. This software is 
 	economically feasible. As the cost of hardware and software required is low. The main objectives
