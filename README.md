@@ -108,3 +108,7 @@
 **6. Output Screen Layouts**
 
 ![alt text](https://github.com/Abhijith14/XI-Project-Calc/blob/master/images/1.png?raw=true)
+![alt text](https://github.com/Abhijith14/XI-Project-Calc/blob/master/images/2.png?raw=true)
+![alt text](https://github.com/Abhijith14/XI-Project-Calc/blob/master/images/3.png?raw=true)
+![alt text](https://github.com/Abhijith14/XI-Project-Calc/blob/master/images/4.png?raw=true)
+![alt text](https://github.com/Abhijith14/XI-Project-Calc/blob/master/images/5.png?raw=true)
