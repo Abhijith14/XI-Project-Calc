@@ -7,7 +7,8 @@
 		1.1.1 Scientific Calculator-An Overview
 
 			Scientific calculator is a type of electronic calculator, usually but not always handheld,
-			designed to calculate problems in science, engineering, and mathematics. They have almost completely replaced slide rules in traditional applications, and are widely used in both education and professional settings.
+			designed to calculate problems in science, engineering, and mathematics. They have almost 
+			completely replaced slide rules in traditional applications, and are widely used in both education and professional settings.
 			Modern scientific calculators generally have many more features than a standard four or five-function calculator, and the feature set differs between manufacturers and models; however, this project deals with 20 simple and basic mathematical functions including:
 
 			1. Addition
