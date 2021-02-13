@@ -51,29 +51,19 @@
 		2.1.1 Hardware Configuration
 
 			PROCESSOR : Intel Core i7-5960X
-
 			RAM : HyperX Predator 3600 2X8GB
-
 			GRAPHICS ADAPTER : Nvidia GeForce GTX Titan Xp
-
 			MONITOR : AOC Agon AG352UCG
-
 			KEYBOARD : Logitech G910 Orion Spectrum
-
 			MOUSE : Logitech G903
 
 		2.1.2 Software Configuration
 
 			OPERATING SYSTEM : Windows 10
-
 			EDITOR : DOSBox
-
 			PROGRAMMING LANGUAGE : C++
-
 			OOP CONCEPTS USED : Data Abstraction, Data Encapsulation, Modularity, Inheritance, Polymorphism, Reusability.
-
 			FEATURES USED : FUNCTIONS
-		
 			DATABASE : SQL
 
 **3. DATA FLOW DIGRAM**
