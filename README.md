@@ -11,8 +11,8 @@
 			completely replaced slide rules in traditional applications, and are widely used in both 
 			education and professional settings. Modern scientific calculators generally have many more
 			features than a standard four or five-function calculator, and the feature set differs 
-			between manufacturers and models; however, this project deals with 20 simple and basic mathematical 
-			functions including:
+			between manufacturers and models; however, this project deals with 20 simple and basic 
+			mathematical functions including:
 
 			1. Addition
 			2. Subtraction
@@ -37,8 +37,12 @@
 
 		1.1.2 Objective of the PROJECT
 
-			The main objective of the project &quot; **SCIENTIFIC CALCULATOR**&quot; is to help the user to do calculations with some of the main important and useful functions in MATHEMATICS. This program targets at the comfortance of the user along with proper and accurate result of the entered questions.
-			It helps the user to also do complex operations like Natural Logarithm, Trigonometry, Logarithm, and even the e function. Has the feature like CLEARING, EXIT and also the mathematical number PI.
+			The main objective of the project SCIENTIFIC CALCULATOR is to help the user to do 
+			calculations with some of the main important and useful functions in MATHEMATICS.
+			This program targets at the comfortance of the user along with proper and
+			accurate result of the entered questions. It helps the user to also do complex 
+			operations like Natural Logarithm, Trigonometry, Logarithm, and even the e 
+			function. Has the feature like CLEARING, EXIT and also the mathematical number PI.
 
 **2. SYSTEM SPECIFICATION**
 
