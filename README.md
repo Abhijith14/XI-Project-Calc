@@ -37,8 +37,8 @@
 
 		1.1.2 Objective of the PROJECT
 
-			The main objective of the project SCIENTIFIC CALCULATOR is to help the user to do calculations 
-			with some of the main important and useful functions in MATHEMATICS.
+			The main objective of the project SCIENTIFIC CALCULATOR is to help the user to do 
+			calculations with some of the main important and useful functions in MATHEMATICS.
 			This program targets at the comfortance of the user along with proper and
 			accurate result of the entered questions. It helps the user to also do complex 
 			operations like Natural Logarithm, Trigonometry, Logarithm, and even the e 
