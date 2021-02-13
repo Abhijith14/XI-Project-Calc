@@ -75,10 +75,16 @@
 
 **4. CONCLUTION**
 
-	Making programs designed for a real-life purpose is a great way to understand programming and programming concepts. This C++ project and OOP concepts used have been of greater help to me for understanding OOP concepts and for its functioning, it can be easily modified and maintained.
-	This calculator is designed in a user friendly manner. This software is economically feasible. As the cost of hardware and software required is low.
-	The main objectives that are achieved are to do complex operations and many other functions. All the calculations are done by the computer and provide greater speed and thus reduce time consumption. It provides the user a quick response with very accurate information.
-	The project has been developed to meet the aspirations indicated in the modern age. An attempt has been made through this project to do all work ease and fast.
+	Making programs designed for a real-life purpose is a great way to understand programming and 
+	programming concepts. This C++ project and OOP concepts used have been of greater help to me 
+	for understanding OOP concepts and for its functioning, it can be easily modified and 
+	maintained. This calculator is designed in a user friendly manner. This software is 
+	economically feasible. As the cost of hardware and software required is low. The main objectives
+	that are achieved are to do complex operations and many other functions. All the calculations are
+	done by the computer and provide greater speed and thus reduce time consumption. It provides the
+	user a quick response with very accurate information. The project has been developed to meet the
+	aspirations indicated in the modern age. An attempt has been made through this project to do all
+	work ease and fast.
 
 **5. BIBLIOGRAPHY**
 
