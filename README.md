@@ -63,7 +63,7 @@
 			EDITOR : DOSBox
 			PROGRAMMING LANGUAGE : C++
 			OOP CONCEPTS USED : Data Abstraction, Data Encapsulation, Modularity, Inheritance, 
-Polymorphism, Reusability.
+			Polymorphism, Reusability.
 			FEATURES USED : FUNCTIONS
 			DATABASE : SQL
 
